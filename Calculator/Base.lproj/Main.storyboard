@@ -198,6 +198,10 @@
                                                                 <buttonConfiguration key="configuration" style="plain" title="="/>
                                                             </button>
                                                         </subviews>
+                                                        <constraints>
+                                                            <constraint firstItem="z1w-WN-z21" firstAttribute="width" secondItem="Jtd-ex-cDB" secondAttribute="width" id="E5A-63-hJC"/>
+                                                            <constraint firstItem="ATh-pp-QHl" firstAttribute="width" secondItem="z1w-WN-z21" secondAttribute="width" multiplier="2" id="fFt-vv-wWg"/>
+                                                        </constraints>
                                                     </stackView>
                                                 </subviews>
                                             </stackView>
